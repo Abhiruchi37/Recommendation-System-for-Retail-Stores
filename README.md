@@ -1,7 +1,7 @@
 # Recommendation-System-for-Retail-Stores
 ## Overview
 
-The Retail Store Recommendation System is a filtering-based recommendation engine designed to provide personalized product recommendations to users based on their historical preferences and behaviors. This system uses the Surprise library with matrix factorization (SVD) to enhance recommendation accuracy.
+The Retail Store Recommendation System is a filtering-based recommendation engine designed to provide personalized product recommendations to users based on their historical preferences and behaviors. This system uses the Surprise library with matrix factorization (SVD) to enhance the recommendation accuracy.
 
 ## Features
 
