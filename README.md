@@ -35,7 +35,7 @@ The Retail Store Recommendation System is a collaborative filtering-based recomm
    ```
 
 ## Dataset Format
-Dataset link - https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings
+Dataset link - https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings \
 The dataset includes the following columns:
 
 - `User_ID`: Unique identifier for users.
